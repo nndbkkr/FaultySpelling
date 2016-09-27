@@ -1,7 +1,7 @@
 # FoutieveSpelling
 
-Demonstratie repository om te clonen en veranderingen voor te stellen.
+Demo repository to clone and suggest edits.
 
 Het doel van dese repository is om te leren hoe je een "fork" maakt, en verbeteringen kan voorstellen.
 
-Verbeter de bovenstaande tekst en stel deze verbetering voor door middel van een _pull request_
+Please edit the above and suggest improvements through a _pull request_
